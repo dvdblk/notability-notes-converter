@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Don't include the generated pdfs
+out/*
